@@ -1,5 +1,5 @@
 # ydl
-This is a command line youtube script to download YouTube video using (pytube)[https://pypi.org/project/pytube/] python module.
+This is a command line youtube script to download YouTube video using [pytube](https://pypi.org/project/pytube/) python module.
 
 
 # Setup steps
