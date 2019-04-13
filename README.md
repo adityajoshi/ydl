@@ -7,6 +7,8 @@ This is a command line youtube script to download YouTube video using [pytube](h
 Steps 1 & 2 are only required for fresh install.
 1. Create new virtual env.<br/>
    *virtualenv -p /usr/bin/python3 ydl*
+   or 
+   *python3 -m venv ydl*
 
 1. Activate new env.<br/>
    . ./ydl/bin/activate
